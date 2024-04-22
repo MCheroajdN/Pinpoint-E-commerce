@@ -5,7 +5,7 @@
 Using knowledge gained within Color for UI and applying to an e-commerce checkout page
 
 ## Project Instructions
-> I ws asked to take an existing grayscale website and apply colors to various elements and sections within the design to ensure users understand the error and active states as well as primary calls-to-action.
+> The project requires taking an existing grayscale website and apply colors to various elements and sections within the design to ensure users understand the error and active states as well as primary calls-to-action.
 
 > This means means I will need to consider which elements need to be updated based on providing the user with enough information to continue adding their information to complete their checkout process.
 
